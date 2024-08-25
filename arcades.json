@@ -1,61 +1,61 @@
 [
     {
         "title": "Retro Arcade Rotterdam",
-        "description": "A nostalgic arcade featuring classic games from the 80s and 90s.",
+        "description": "description1",
         "latitude": 51.9225,
         "longitude": 4.4792
     },
     {
         "title": "Gamestate Rotterdam",
-        "description": "A modern arcade with the latest games and VR experiences, located near the Blaak area.",
+        "description": "description2",
         "latitude": 51.9179,
         "longitude": 4.4886
     },
     {
         "title": "Arcade Funland",
-        "description": "A family-friendly arcade offering a variety of games for all ages, situated near Zuidplein shopping center.",
+        "description": "description3",
         "latitude": 51.8893,
         "longitude": 4.4906
     },
     {
         "title": "Pixel Palace",
-        "description": "An arcade by the harbor with a wide selection of both new and retro games.",
+        "description": "description4",
         "latitude": 51.9148,
         "longitude": 4.4814
     },
     {
         "title": "Game World Rotterdam",
-        "description": "Located near De Kuip stadium, this arcade offers a mix of video games and classic arcade machines.",
+        "description": "description5",
         "latitude": 51.8939,
         "longitude": 4.5241
     },
     {
         "title": "Noord Arcade",
-        "description": "A hidden gem in the Rotterdam Noord area, featuring a variety of arcade games and pinball machines.",
+        "description": "description6",
         "latitude": 51.9345,
         "longitude": 4.4827
     },
     {
         "title": "Oostplein Gameroom",
-        "description": "Located at Oostplein, this arcade offers a wide range of games and entertainment options.",
+        "description": "description7",
         "latitude": 51.9231,
         "longitude": 4.5018
     },
     {
         "title": "Kralingen Arcade",
-        "description": "Popular among students, this arcade offers affordable gaming options and a fun atmosphere.",
+        "description": "description8",
         "latitude": 51.9278,
         "longitude": 4.5178
     },
     {
         "title": "Coolhaven Arcade",
-        "description": "A great place to enjoy a variety of arcade games in a modern setting.",
+        "description": "description9",
         "latitude": 51.9136,
         "longitude": 4.4532
     },
     {
         "title": "Schiebroek Arcade",
-        "description": "Known for its extensive collection of games and friendly staff, located in the Schiebroek district.",
+        "description": "description10",
         "latitude": 51.9541,
         "longitude": 4.4774
     }
